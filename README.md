@@ -1,4 +1,3 @@
-# Pizza-Sales-Analytics-Dashboard
 # 🍕 Pizza Sales Analytics Dashboard
 
 An interactive dashboard built using **HTML, CSS, and JavaScript** to analyze pizza sales performance, revenue trends, product performance, and customer ordering patterns.
